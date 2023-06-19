@@ -6,7 +6,7 @@
 To play this game, copy the URL below into iTerm/Terminal:
 
 ```
-git clone https://github.com/mtalhaYAYLA/42Cursus-So_Long && cd So_Long && make && ./so_long maps/map.ber
+git clone https://github.com/mtalhaYAYLA/42Cursus-So_Long && cd 42Cursus-So_Long && make && ./so_long maps/map.ber
 ```
 ## Makefile rules
 
